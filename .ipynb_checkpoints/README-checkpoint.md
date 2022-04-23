@@ -1,2 +1,0 @@
-# palmetto
-$x^2$
