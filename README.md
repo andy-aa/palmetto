@@ -1,1 +1,2 @@
 # palmetto
+$x^2$
